@@ -1,0 +1,31 @@
+
+body {
+    background-color: #889EAF;
+    margin: 100;
+}
+
+.header {
+    color: chartreuse;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.player1 {
+    color: chartreuse;
+    float: left;
+    height: 500px;
+    text-align: center;
+    width: 48%;
+}
+.player2 {
+    color: chartreuse;
+    float: right;
+    height: 500px;
+    text-align: center;
+    width: 48%;
+}
+
+.footer {
+    text-align: center;
+}

@@ -1,0 +1,63 @@
+.main {
+    background-color: #F3F0D7;
+    text-align: center;
+    font-size: 2rem;
+    position: relative;
+}
+
+a {
+    max-height: 100%;
+    max-width: 100%;
+    text-align: left;
+    text-decoration: none;
+}
+
+h4 {
+    position: absolute;
+    text-align: center;
+    top: 700px;
+}
+/* img {
+    max-width: 100%;
+    max-height: 100%;
+} */
+.dice {
+    background-image: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/game-die_1f3b2.png");
+    height: 400px;
+    width: 400px;
+    font-size: 5rem;
+    float: left;
+    /* padding: 50px;
+    margin: 10px; */
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+
+.drums {
+    background-image: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/drum_1f941.png");
+    height: 400px;
+    width: 400px;
+    font-size: 5rem;
+    float: left;
+    /* padding: 50px; */
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+
+.simon {
+    background-image: url("images/simon.jpeg");
+    height: 400px;
+    width: 400px;
+    font-size: 5rem;
+    float: left;
+    background-repeat: no-repeat;
+    /* padding: 50px; */
+    position: absolute;
+    left: 950px;
+    top: 200px;
+}
+
